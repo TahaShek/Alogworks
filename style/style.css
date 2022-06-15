@@ -1,0 +1,196 @@
+nav{background: rgb(0, 0, 0,0.3);}  
+  
+  .class{
+    font-weight: 700;
+    color: #1869f4;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: red;
+}
+.p1{
+    font-size: 1.7rem;
+    color: #000000b3 ;
+    
+}
+.btn-outline-dark:hover{background-color: #050748;
+    color: white;
+    /* color: #050748; */
+}
+.btn-outline-dark{border-radius: 60px;}
+.cardz{
+    border-radius: 0.8rem 0.8rem 0.8rem 4rem;
+    box-shadow: 0 0 0.4rem 0.1rem #0003;
+    
+}
+.card-p{font-weight: 600;
+    font-size: 1    rem;
+    text-align: center;
+    opacity: .7;
+}
+.card-h1{color: #050748;
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 900;}
+
+ i{
+    font-size: 80px;
+    text-align: center;
+ }   
+ .service{
+    font-size: 4rem;
+    color: #344767;
+    font-weight: 700;
+ }
+ .service-p{
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: #67748E;
+ }
+ 
+ .service-card{
+    height: auto;
+    border-bottom-right-radius: 3rem;
+    border-top-left-radius: 3rem;
+    box-shadow: 0 0 0.4rem 0.1rem #0003;
+    padding: 2.5rem;
+    margin-left: 10px
+ }
+ .service-h5{font-size: 1.3rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #222;}
+
+    .span{    font-weight: 400;
+        font-size: 1.5rem;
+    }
+
+.carousel-item{
+/* height: 100vh; */
+background-position: center;
+background-size: cover;
+}
+
+.clients:hover{
+    box-shadow: 0.4rem 0.4rem 0.4rem 0.1rem #0003;
+    transition: all .3s linear;
+}
+
+
+
+
+
+
+
+/* conatctform */
+   
+/* google fonts end*/
+
+#contact-form{
+  background:#222;
+}
+.form-control{
+  border-radius:0px;
+  border:0px;
+}
+.font-primary{
+  font-family: 'Kaushan Script', cursive;
+}
+.font-secondary{
+  font-family: 'Saira', sans-serif;
+}
+.form-area{
+  /* border:1px solid #fff; */
+}
+/* conatctform */
+   
+
+
+
+/* footer  */
+.bg-footer {
+    background-color: #33383c;
+    padding: 50px 0 30px;
+}
+.footer-heading {
+    letter-spacing: 2px;
+}
+
+.footer-link a {
+    color: #acacac;
+    line-height: 40px;
+    font-size: 14px;
+    transition: all 0.5s;
+}
+
+.footer-link a:hover {
+    color: #1bbc9b;
+}
+
+.contact-info {
+    color: #acacac;
+    font-size: 14px;
+}
+
+.footer-social-icon {
+    font-size: 15px;
+    height: 34px;
+    width: 34px;
+    line-height: 34px;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block;
+}
+
+.facebook {
+    background-color: #4e71a8;
+    color: #ffffff;
+}
+
+.twitter {
+    background-color: #55acee;
+    color: #ffffff;
+}
+
+.google {
+    background-color: #d6492f;
+    color: #ffffff;
+}
+
+.apple {
+    background-color: #424041;
+    color: #ffffff;
+}
+
+.footer-alt {
+    color: #acacac;
+}
+
+.footer-heading {
+    position: relative;
+    padding-bottom: 12px;
+}
+
+.footer-heading:after {
+    content: '';
+    width: 25px;
+    border-bottom: 1px solid #FFF;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    border-bottom: 1px solid #1bbc9b;
+}
+/* footer  */
+
+
+
+
+
+
+
+
+
